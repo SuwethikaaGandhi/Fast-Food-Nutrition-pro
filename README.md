@@ -52,5 +52,5 @@ An interactive Power BI dashboard that enables users to:
 
 ## 🔗 Project Files
 - Fast Food Analysis Dashboard (.pbix)
--- Fast Food analaysis.pptx
---- Dataset (.csv / .xlsx)
+- Fast Food analaysis.pptx
+- Dataset (.csv / .xlsx)
